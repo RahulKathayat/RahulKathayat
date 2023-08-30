@@ -1,4 +1,4 @@
-### Hey there this is Rahul👋
+## Hey there this is Rahul👋
 - 🔭 I’m currently working on my DSA Skills
 - 🌱 I’m currently learning React Native App Development
 - 💬 Ask me about my Projects 
