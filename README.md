@@ -1,8 +1,6 @@
 ### Hey there this is Rahul👋
 - 🔭 I’m currently working on my DSA Skills
 - 🌱 I’m currently learning React Native App Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about my Projects 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The famous Programming Language 'C' is named so because it has a predecessor called 'B'
