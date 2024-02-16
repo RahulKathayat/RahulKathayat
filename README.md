@@ -1,6 +1,6 @@
 ## Hey there this is Rahul👋
-- 🔭 I’m currently working on my DSA Skills
-- 🌱 I’m currently learning React Native App Development
+- 🔭 I’m currently working on React Native Projects
+- 🌱 I’m currently learning TypeScript
 - 💬 Ask me about my Projects 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The famous Programming Language 'C' is named so because it has a predecessor called 'B'
